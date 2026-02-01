@@ -1,0 +1,8 @@
+google-services.json
+GoogleService-Info.plist
+.env
+build/
+node_modules/
+ios/Pods/
+.android/
+firebase/.runtimeconfig.json
