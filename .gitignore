@@ -9,10 +9,20 @@ android/.gradle
 android/app/debug
 android/app/profile
 android/app/release
+.android/
 
 # iOS
 ios/Pods/
 ios/.symlinks/
+GoogleService-Info.plist
+
+# Firebase / Env
+google-services.json
+firebase/.runtimeconfig.json
+.env
+
+# Node
+node_modules/
 
 # IDE
 .vscode/
